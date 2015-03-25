@@ -10,6 +10,4 @@ Si jamais vous souhaitez également que je traduise la partie Authentification, 
 ### Version
 1.0.0
 
-**Proposé par [Chokkan Web]**
-
-[Chokkan Web]:http://chokkanweb.fr/
+**Proposé par Volqan**
